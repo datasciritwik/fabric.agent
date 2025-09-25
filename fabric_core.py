@@ -15,7 +15,7 @@ def llm_call(prompt: str) -> str:
     A swappable function to call the LLM.
     Currently configured for Google Gemini.
     """
-    model = genai.GenerativeModel('gemini-pro')
+    model = genai.GenerativeModel('gemini-2.0-flash')
     try:
         response = model.generate_content(prompt)
         return response.text.strip()
