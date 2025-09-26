@@ -1,4 +1,4 @@
-# Neural-Agent Concept: A Declarative Multi-Agent Fabric
+# Neural-Agent Concept: A Declarative Multi-Agent Fabric 🤖
 
 This repository contains the core implementation of the "Neural-Agent Concept," a self-managing, cost-conscious framework for building sophisticated multi-agent AI systems.
 
